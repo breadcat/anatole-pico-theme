@@ -174,10 +174,8 @@ sup {
 }
 
 code {
-    font-family: Courier, "Courier New", Monaco, Tahoma;
     background: #eee;
     color: #333;
-    padding: 0px 2px;
 }
 
 pre {
